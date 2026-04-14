@@ -1,0 +1,65 @@
+so now
+
+so i am taking a small project by a naturophysisist who want to create a website for his naturopathy camps 
+all the things i want in website
+
+mobile friendly as most of the traffic from mobile
+
+static only
+but needs to use images and videos
+
+for images: clodinary
+for videos: youtube
+
+also need a functionality for forms
+
+i found out google forms and netlify forms as option open to both
+
+but i am thinking since its small project 
+i will seprate forms from website with similar styling and theme
+
+like create a small seprate website for form this in that well maybe netlify will be better
+
+
+perfectly summarised
+What pages do you need?
+Home
+About Naturopathy
+Camps / Events
+Contact
+What content?
+Photos/videos
+Testimonials
+Location details
+Any features?
+WhatsApp contact button?
+Google Maps?
+Form (or just phone number?)
+
+Keep it simple: static website = no login, no backend
+
+2. Decide your tech stack (simple + beginner-friendly)
+
+Since you're new, use:
+
+HTML → structure
+CSS → styling
+Optional: a little JavaScript
+Use Tailwind CSS (optional) OR plain CSS
+Or use a simple CSS framework like:
+Bootstrap (easy + fast) Avoid React/Angular for now.
+
+
+project structure should look like this so i am not overwhelemed
+
+project/
+│── index.html
+│── about.html
+│── camps.html
+│── contact.html
+│── css/
+│   └── styles.css
+│── images/
+│── js/
+
+something like this maybe not exactly.
